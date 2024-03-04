@@ -1,0 +1,23 @@
+{
+  "name": "teachon",
+  "version": "1.0.0",
+  "description": "new tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GreenBlockProject/teachon.git"
+  },
+  "dependencies": {
+    "tea_12": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreenBlockProject/teachon/issues"
+  },
+  "homepage": "https://github.com/GreenBlockProject/teachon#readme"
+}
